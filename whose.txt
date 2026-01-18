@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/ultimate.txt
+https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt
+https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
